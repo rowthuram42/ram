@@ -1,0 +1,21 @@
+exercise-3
+1.download git desktop application
+2.create github account
+3.create local repository-local stage
+4.take the status of the loacal repository git status
+5.create a file at local repository touch filename
+6.add a file or files to local repository 
+    git  add
+    git add files,...
+7.perform modification on a file
+     vi filename
+     1 insert mode
+    else : wq
+8.create a global repository at "github"
+9.configure local stage to global repository
+     git config-- global user name "your name"
+     git congfig-- global user email your email
+10.create origin for pushing data from local stage to global stage
+11.push data from localstage to global stage
+         git commit - m
+	 git push  - u
